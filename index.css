@@ -1,6 +1,6 @@
 #container {
  width: 1000px; /* Width */
- height: 2450px;
+ height: 2470px;
  margin: 0 auto; /* Center align */
 background:#98FB98;
 font-size: 15pt;
@@ -9,7 +9,7 @@ font-size: 15pt;
 }
 #header{
  width: 1000px;
- height: 1300px;
+ height: 1310px;
  text-align: center;
  background: #98FB98;
  font-size: 15pt;
